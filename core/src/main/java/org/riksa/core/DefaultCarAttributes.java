@@ -6,7 +6,7 @@ package org.riksa.core;
  * Time: 19:55
  */
 public class DefaultCarAttributes implements CarAttributes {
-    private final float acceleration = 0.1f;
+    private final float acceleration = 0.5f;
     private final float rotationSpeed = 0.1f;
     private final float topSpeed = 10f;
     private final float minSpeed = -topSpeed / 2f;
