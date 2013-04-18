@@ -32,6 +32,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="playn-slicks" target="1.6" />
+      <module name="playn-slicks-android" target="1.6" />
       <module name="playn-slicks-assets" target="1.6" />
       <module name="playn-slicks-core" target="1.6" />
       <module name="playn-slicks-html" target="1.6" />
