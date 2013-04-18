@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/playn-slicks.iml" filepath="$PROJECT_DIR$/playn-slicks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assets/playn-slicks-assets.iml" filepath="$PROJECT_DIR$/assets/playn-slicks-assets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/playn-slicks-core.iml" filepath="$PROJECT_DIR$/core/playn-slicks-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/html/playn-slicks-html.iml" filepath="$PROJECT_DIR$/html/playn-slicks-html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/playn-slicks-java.iml" filepath="$PROJECT_DIR$/java/playn-slicks-java.iml" />
+    </modules>
+  </component>
+</project>
+
